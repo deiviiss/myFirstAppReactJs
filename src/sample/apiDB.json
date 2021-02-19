@@ -1,0 +1,25 @@
+[
+  {
+    "id":0,
+    "asesor":"David Hilera",
+    "cliente":"Valeria Moreno",
+    "monto":26054,
+    "finalizado":true
+  },
+
+  {
+    "id":1,
+    "asesor":"Armin Hilera",
+    "cliente":"Valeria Moreno",
+    "monto":26054,
+    "finalizado":false
+  },
+
+  {
+    "id":2,
+    "asesor":"Valeria Moreno",
+    "cliente":"Summer Hilera",
+    "monto":26054,
+    "finalizado":false
+  }
+]
